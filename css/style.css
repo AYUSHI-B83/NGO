@@ -819,7 +819,7 @@ a:focus {
 .donate .donate-form {
   padding: 90px 30px;
   background: #fdbe33;
-  color: #000000;
+  color: #000000 !important;
 }
 
 .donate .donate-form .control-group {
